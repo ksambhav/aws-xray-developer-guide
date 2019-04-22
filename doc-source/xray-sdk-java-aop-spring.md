@@ -1,5 +1,7 @@
 # AOP with Spring and the X\-Ray SDK for Java<a name="xray-sdk-java-aop-spring"></a>
 
+## Be aware of an open issue at https://github.com/aws/aws-xray-sdk-java/issues/45
+
 This topic describes how to use the X\-Ray SDK and the Spring Framework to instrument your application without changing its core logic\. This means that there is now a non\-invasive way to instrument your applications running remotely in AWS\.
 
 You must perform three tasks to enable this feature\.
